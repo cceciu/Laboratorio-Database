@@ -1,5 +1,5 @@
 <?php
-	include("connect.php");
+	include("connection.php");
 
 	$conn = OpenCon();
     echo "Connected Successfully";
